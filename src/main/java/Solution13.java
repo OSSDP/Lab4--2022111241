@@ -14,11 +14,9 @@
  * 输出：[0,1,2]
  */
 
-import org.junit.Test;
 
-import static org.junit.Assert.assertArrayEquals;
 
-class Solution {
+class Solution13 {
 
     public void sortColors(int[] nums) {
         int n = nums.length;
